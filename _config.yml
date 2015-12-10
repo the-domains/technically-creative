@@ -1,6 +1,6 @@
 name: Technically Creative
 favicon: null
-layout_spectrum: 0.00763
+layout_spectrum: 1
 typography_spectrum: 0.74746
 title: Technically Creative
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#030303'
     - '#ffffff'
-    - '#131112'
-    - '#c2c3d8'
-    - '#8586a2'
-    - '#3c3a4f'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+    - '#70614c'
+    - '#54a5f6'
+    - '#1545d0'
+  brandStrength: 0.75
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
