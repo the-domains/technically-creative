@@ -1,29 +1,41 @@
-name: Technically Creative
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.74746
 title: Technically Creative
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0
+  brandStrength: 0.75
+  rhythmicContrast: 1
   brandColors:
     - '#030303'
     - '#ffffff'
     - '#70614c'
     - '#54a5f6'
     - '#1545d0'
-  brandStrength: 0.75
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Technically Creative
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6652614
+layout_spectrum: 1
