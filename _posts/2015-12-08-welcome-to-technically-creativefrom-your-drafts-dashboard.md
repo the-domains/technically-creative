@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-12-10T08:09:18.975Z'
-dateModified: '2015-12-10T08:08:35.663Z'
+datePublished: '2015-12-15T01:01:38.254Z'
+dateModified: '2015-12-10T08:25:17.787Z'
 title: Welcome to Technically Creative.
 author: []
 sourcePath: _posts/2015-12-08-welcome-to-technically-creativefrom-your-drafts-dashboard.md
@@ -29,7 +29,7 @@ _type: Article
 
 We create and yield technical production and technical design solutions to the event, installation and broadcast industries.
 
-Our team is often disguised as a transparent overlay to companies across many [sectors][0].
+Our team is often disguised as a transparent overlay to companies across many S[ectors][0].
 
 Our [Disciplines][0]:
 
