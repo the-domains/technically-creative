@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5021482
-  lightness: 0
+  saturation: 0
   brandStrength: 0.2368421
+  lightness: 0.5161117
   brandColors:
     - '#030303'
     - '#ffffff'
     - '#70614c'
     - '#54a5f6'
     - '#1545d0'
-  rhythmicContrast: 0.1745435
+  rhythmicContrast: 0.1498389
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Technically Creative
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.61408
-layout_spectrum: 0.4280344
+layout_spectrum: 1
