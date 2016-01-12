@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: WELCOME
-datePublished: '2016-01-12T03:53:48.827Z'
-dateModified: '2016-01-12T03:53:42.060Z'
+datePublished: '2016-01-12T04:22:27.870Z'
+dateModified: '2016-01-12T04:22:22.681Z'
 title: TECHNICALLY CREATIVE
 author: []
 sourcePath: _posts/2016-01-12-technically-creative.md
